@@ -13,22 +13,22 @@ const IndexPage = () => {
         <div className="container">
           <article style={{backgroundImage: 'url(/images/image9.jfif)'}} className="featured-item featured-item-large">
             <div className="featured-item__content">
-              <h3>CAT - heavy mechinaries heaven!</h3>
+              <h3>CAT - Heavy Machinery Heaven!</h3>
               <a href="https://www.cat.com/en_US/products/new/equipment.html" className="btn btn--rounded">Show Collection</a>
             </div>
           </article>
           
           <article style={{backgroundImage: 'url(/images/image12.jfif)'}} className="featured-item featured-item-small-first">
             <div className="featured-item__content">
-              <h3>Wanna buy fresh fruits?</h3>
-              <h3>Asia's biggest market</h3>
+              <h3>Wanna Buy Fresh Fruits?</h3>
+              <h3>Asia's Biggest Market</h3>
               <a href="#" className="btn btn--rounded">Take a tour</a>
             </div>
           </article>
           
           <article style={{backgroundImage: 'url(/images/image10.jpg)'}} className="featured-item featured-item-small">
             <div className="featured-item__content">
-              <h3>Get raw metarials delivered to you factory</h3>
+              <h3>Get Raw Materials delivered directly to your Factory</h3>
               <a href="https://www.thesteel.co.th/en/home/" className="btn btn--rounded">VIEW Catagories</a>
             </div>
           </article>
@@ -62,7 +62,7 @@ const IndexPage = () => {
               <i className="icon-cash"></i>
               <div className="data-item__content">
                 <h4>Authenticity Guaranteed</h4>
-                <p>Every vendor here is AR varified which mean 0% chance of getting frauded</p>
+                <p>Every vendor here is AR verified which means a 0% chance of fraud</p>
               </div>
             </li>
             
